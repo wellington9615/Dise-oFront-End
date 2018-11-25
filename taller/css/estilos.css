@@ -1,0 +1,29 @@
+/* CSS Document */
+.regla1{
+	background-color:red;
+	color:#CCC;
+	font-weight:blod;
+	padding-left:500px;
+	border-color:#000;
+	border-top:dashed;
+	border-left:dashed;
+	border-right:dashed;
+	border-bottom:dashed;
+	margin-right:200px;
+	position:absolute;
+	/*top:100px;*/
+	left:200px;
+	z-index:2 ;
+}
+
+#regla2{
+	background-color:blue;
+	color:#CCC;
+	font-weight:blod;
+	padding-left:500px;
+	margin-right:250px;
+	position:absolute;
+	left:400px;
+	z-index:1;
+	
+}
